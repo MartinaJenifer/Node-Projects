@@ -1,0 +1,26 @@
+{
+  "name": "myfirstnode",
+  "version": "1.0.0",
+  "description": "my first node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartinaJenifer/Node-Projects.git"
+  },
+  "author": "Mart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MartinaJenifer/Node-Projects/issues"
+  },
+  "homepage": "https://github.com/MartinaJenifer/Node-Projects#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "http": "^0.0.1-security"
+  },
+  "keywords": [
+    "node"
+  ]
+}
