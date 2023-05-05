@@ -1,0 +1,23 @@
+{
+  "name": "sqlconnect",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "martina",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mssql": "^9.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartinaJenifer/Node-Projects.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MartinaJenifer/Node-Projects/issues"
+  },
+  "homepage": "https://github.com/MartinaJenifer/Node-Projects#readme",
+  "description": ""
+}
